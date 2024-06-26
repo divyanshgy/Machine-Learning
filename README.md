@@ -1,5 +1,6 @@
 # Machine-Learning
  Implementation of ML Algorithms on different datasets.
+ Implemented all these when I was doing Andrew NG ML specialization from coursera(Jan 2023-Mar 2023)
  1) Single variable Linear Regression on the kaggle housing dataset.
  2) Multiple variable Linear Regression on the kaggle housing dataset.
  3) Logistic Regression on the IRIS dataset. Results- achieved an accuracy of 0.97 and an f1-score of 0.96
